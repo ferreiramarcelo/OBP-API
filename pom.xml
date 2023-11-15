@@ -194,7 +194,7 @@
     <dependency>
       <groupId>org.elasticsearch</groupId>
       <artifactId>elasticsearch</artifactId>
-      <version>2.3.0</version>
+      <version>6.3.0</version>
     </dependency>
     <dependency>
       <groupId>com.sksamuel.elastic4s</groupId>
